@@ -1,0 +1,45 @@
+[33mcommit 747a6d72b8129e05134a93fd4b8120fc0d1675d3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mohammad Ashraf <mashrafkhan20161@gmail.com>
+Date:   Sat Oct 7 15:55:36 2023 +0530
+
+    server updated
+
+[33mcommit 5965792ddb3a98aea42c57ff8154241f1dd60309[m
+Merge: 69d1afa 22a003b
+Author: Mohammad Ashraf <mashrafkhan20161@gmail.com>
+Date:   Sun Oct 1 17:55:35 2023 +0530
+
+    Merge https://github.com/ashraf-0907/Database_Server_Engine
+
+[33mcommit 69d1afa8d1f4d67e914d089f273e9d4434d8529b[m
+Author: Mohammad Ashraf <mashrafkhan20161@gmail.com>
+Date:   Sun Oct 1 17:53:20 2023 +0530
+
+    first_commit
+
+[33mcommit 22a003b6caa00cd785c3ffb654e104a18a363e16[m
+Merge: 21632da 3640524
+Author: ashraf-0907 <119448758+ashraf-0907@users.noreply.github.com>
+Date:   Wed Sep 27 11:46:36 2023 +0530
+
+    Merge pull request #3 from ashraf-0907/ashraf-0907-patch-1
+    
+    Update Server.java
+
+[33mcommit 3640524630be5e5afa3d5662d228d2eeabf922ba[m
+Author: ashraf-0907 <119448758+ashraf-0907@users.noreply.github.com>
+Date:   Wed Sep 27 11:45:43 2023 +0530
+
+    Update Server.java
+
+[33mcommit 21632dad06ececc2d71a3b0d577c516ae69748b0[m
+Author: Mohammad Ashraf <mashrafkhan20161@gmail.com>
+Date:   Wed Sep 27 11:16:38 2023 +0530
+
+    simple server that accept the string
+
+[33mcommit b6b65ed686f662a89ab35a5069018d2217bde47e[m
+Author: ashraf-0907 <119448758+ashraf-0907@users.noreply.github.com>
+Date:   Wed Sep 27 00:35:28 2023 +0530
+
+    Initial commit
